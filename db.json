@@ -7,6 +7,6 @@
         { "nombre": "Fabio",      "apellido":"Colmenares",   "consolas": ["Xbox One X", "Playstation 4"]},
         { "nombre": "Ricardo",    "apellido":"Ferreta",      "consolas": ["Playstation 4", "Nintendo Switch"]},
         { "nombre": "Wenceslao",  "apellido":"Lopez",        "consolas": ["Nintendo Switch", "Nintendo Gamecube"]},
-        { "nombre": "Tiburcio",   "apellido":"Zamudio",      "consolas": ["Nintendo Switch"]},
+        { "nombre": "Tiburcio",   "apellido":"Zamudio",      "consolas": ["Nintendo Switch"]}
     ]
 }
