@@ -1,0 +1,12 @@
+{
+  "users": [
+      { nombre: 'Alan',       apellido:"Urrutia",      consolas: ['Xbox One', 'Playstation 2']},
+      { nombre: 'Javier',     apellido:"Alcazar",      consolas: ['Xbox One X', 'Nintendo Switch', 'Nintendo 3DS']},
+      { nombre: 'Marcos',     apellido:"Resendiz",     consolas: ['Playstation 4', 'Nintendo Switch']},
+      { nombre: 'Miranda',    apellido:"Lozoya",       consolas: ['Nintendo Switch', 'Playstation 3', 'Playstation 4']},
+      { nombre: 'Fabio',      apellido:"Colmenares",   consolas: ['Xbox One X', 'Playstation 4']},
+      { nombre: 'Ricardo',    apellido:"Ferreta",      consolas: ['Playstation 4', 'Nintendo Switch']},
+      { nombre: 'Wenceslao',  apellido:"Lopez",        consolas: ['Nintendo Switch', 'Nintendo Gamecube']},
+      { nombre: 'Tiburcio',   apellido:"Zamudio",      consolas: ['Nintendo Switch']},
+  ]
+}
